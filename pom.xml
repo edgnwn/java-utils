@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>random-string-generator</module>
+        <module>random</module>
     </modules>
 
     <properties>
